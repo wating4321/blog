@@ -4,7 +4,7 @@
 - 职位：前端开发工程师
 - 手机：13667107196
 - Email：863559588@qq.com
-- [个人网站/技术博客](http://brownhu.site)
+- [个人网站/技术博客](https://wating4321.github.io/)
 
 ## 项目介绍
 
