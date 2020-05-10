@@ -1,8 +1,10 @@
 module.exports = {
   title: '十一的博客',
   head: [
-    ['link', {rel: 'icon',href: '/shiyi.png'}]
+    ['link', {rel: 'manifest',href: '/shiyi.png'}],
+    ['link', {rel: 'apple-touch-icon',href: '/shiyi.png'}]
   ],
+  serviceWorker: true,
   themeConfig: {
     logo: '/shiyi.png',
     nav: [
